@@ -1,3 +1,6 @@
+<img width="800" height="800" alt="logo" src="https://github.com/user-attachments/assets/ee528848-9e3f-4f57-a481-18ed0ee32784" />
+<img width="800" height="800" alt="foto-anacláudia" src="https://github.com/user-attachments/assets/48dc043d-25fb-4c5a-9489-bddd5899dc4b" />
+
 # Case Study: Identidade Visual e Presença Digital - Nutricionista Clínica
 
 Este repositório documenta o processo de criação de branding e desenvolvimento web para a Dra. Ana Cláudia Carvalho. O objetivo principal foi transformar uma marca pessoal em uma autoridade digital, facilitando a conversão de pacientes através de um design estratégico e funcional.
