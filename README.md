@@ -38,5 +38,5 @@ O projeto consistiu em uma solução "End-to-End", onde atuei como Designer e De
 
 ---
 *Este projeto demonstra a capacidade de unir design visual estratégico com implementação técnica para gerar resultados reais de negócio.*
-Autor
-[cite_start]Desenvolvido por **Ana Gleice Carvalho**
+
+Autor Desenvolvido por **Ana Gleice Carvalho**
