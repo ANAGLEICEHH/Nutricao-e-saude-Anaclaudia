@@ -24,7 +24,13 @@ O projeto consistiu em uma solução "End-to-End", onde atuei como Designer e De
 * **Design:** Ferramentas de edição visual para criação de logos e artes gráficas.
 * **Desenvolvimento:** HTML5, CSS3 e JavaScript.
 * **Funcionalidades:** Integração de APIs de comunicação (WhatsApp).
-
+  
+## 📋 Funcionalidades
+* [cite_start]**Design Responsivo**: Otimizado para dispositivos móveis.
+* [cite_start]**Integração com WhatsApp**: Botões de agendamento direto.
+* [cite_start]**SEO Local**: Estrutura preparada para buscas na região de Guarapari.
+* [cite_start]**Performance**: Código limpo para carregamento rápido.
+  
 ## 📈 Resultados Alcançados
 * Estabelecimento de uma identidade de marca sólida e profissional.
 * Redução do atrito no agendamento de consultas via integração direta com chat.
@@ -32,3 +38,5 @@ O projeto consistiu em uma solução "End-to-End", onde atuei como Designer e De
 
 ---
 *Este projeto demonstra a capacidade de unir design visual estratégico com implementação técnica para gerar resultados reais de negócio.*
+Autor
+[cite_start]Desenvolvido por **Ana Gleice Carvalho**
